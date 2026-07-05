@@ -1,0 +1,10 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(awk *)",
+      "Read(//mnt/c/Users/elock/Desktop/**)",
+      "Bash(mvn -o -q clean package)",
+      "PowerShell(mvn *)"
+    ]
+  }
+}

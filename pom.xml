@@ -1,0 +1,19 @@
+location: "world:4.5:120.0:0.5:0.0:0.0"
+enabled: true
+display-range: 48
+update-range: 48
+update-interval: 20
+pages:
+- lines:
+  - content: "&6&l* TOP 11-20 *"
+  - content: "&8&m----------------------"
+  - content: "&e#11 &f%ninjaxx_top_11_name% &7- &a%ninjaxx_top_11_points% pts"
+  - content: "&e#12 &f%ninjaxx_top_12_name% &7- &a%ninjaxx_top_12_points% pts"
+  - content: "&e#13 &f%ninjaxx_top_13_name% &7- &a%ninjaxx_top_13_points% pts"
+  - content: "&e#14 &f%ninjaxx_top_14_name% &7- &a%ninjaxx_top_14_points% pts"
+  - content: "&e#15 &f%ninjaxx_top_15_name% &7- &a%ninjaxx_top_15_points% pts"
+  - content: "&e#16 &f%ninjaxx_top_16_name% &7- &a%ninjaxx_top_16_points% pts"
+  - content: "&e#17 &f%ninjaxx_top_17_name% &7- &a%ninjaxx_top_17_points% pts"
+  - content: "&e#18 &f%ninjaxx_top_18_name% &7- &a%ninjaxx_top_18_points% pts"
+  - content: "&e#19 &f%ninjaxx_top_19_name% &7- &a%ninjaxx_top_19_points% pts"
+  - content: "&e#20 &f%ninjaxx_top_20_name% &7- &a%ninjaxx_top_20_points% pts"
